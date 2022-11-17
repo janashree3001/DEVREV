@@ -1,0 +1,3 @@
+delhi;no;yes
+chennai;no;yes
+trichi;yes;yes
